@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Thefreehuman
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
@@ -26,3 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 "a ng-azure-git-thefreehuman" 
+=======
+# thefreehuman
+thefreehuman website project for the free human
+>>>>>>> 83b8349bd66b198a683bea4441fd719daca2f3b5
+"# ng-azure-git-demo" 
