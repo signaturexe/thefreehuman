@@ -32,3 +32,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 thefreehuman website project for the free human
 >>>>>>> 83b8349bd66b198a683bea4441fd719daca2f3b5
 "# ng-azure-git-demo" 
+"# ng-azure-git-thefreehuman" 
